@@ -1,2 +1,3 @@
 feedparser
 argparse
+python-telegram-bot     
