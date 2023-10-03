@@ -1,2 +1,2 @@
-# HCNEWS.py
-HCNews, But in Python.
+# HCnews.py
+HCnews, But in Python.
